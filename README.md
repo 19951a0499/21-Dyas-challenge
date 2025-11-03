@@ -21,6 +21,8 @@ Subqueries and Aliases
 
 Filtering, Sorting, and Conditional Logic
 
+
+
 🎯 Objective
 
 To apply SQL concepts consistently for 21 days and build a strong foundation in data querying and analytics.
